@@ -1,3 +1,4 @@
+//write a program to that perform as calculator(addition, multipilication, division and subtraction)
 #include<stdio.h>
 #include<conio.h>
 void main()
