@@ -1,0 +1,17 @@
+//Write a program to Type Implicit Conversion.
+
+#include <stdio.h>
+
+int main()
+{
+    
+    int sum=26,n=10;
+    float avg;
+    avg=sum/n;
+    printf("\nimplicit type casting:%f",avg);
+  
+    return 0;
+}
+
+
+
